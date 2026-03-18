@@ -19,7 +19,7 @@ This project analyzes movie data to uncover trends in ratings, popularity, and g
 - Google Sheets / CSV
 
 ## 📷 Dashboard Preview
-
+<img width="1920" height="1008" alt="Screenshot 2026-03-18 164211" src="https://github.com/user-attachments/assets/9f7ac21e-182e-4519-aecb-e8fbb9b974e0" />
 
 ## 🚀 How to Use
 - Open the Tableau dashboard
